@@ -1,7 +1,9 @@
 ![./assets/eat_sleep_banner.png](./assets/eat_sleep_banner.png)
 **Note:** Trying to be more healthy nowadays so insert Gym somewhere there and the banner's about right!
 
+<p align="center">
 <img src="./assets/profile.png" width="200" />
+</p>
 
 ## Gabriel Desir
 Hi, I'm **Gabe**! An enthusiastic life-long **software/electronics** hobbyist who is eager to upskill and contribute to a team on worldclass projects!
