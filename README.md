@@ -4,8 +4,8 @@
 <p align="center">
 <img src="./assets/profile.png" width="200" />
 </p>
+<h2 align="center">Gabriel Desir</h2>
 
-## Gabriel Desir
 Hi, I'm **Gabe**! An enthusiastic life-long **software/electronics** hobbyist who is eager to upskill and contribute to a team on worldclass projects!
 
 
