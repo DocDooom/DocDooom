@@ -10,7 +10,7 @@ Hi, I'm **Gabe**! An enthusiastic life-long **software/electronics** hobbyist wh
 
 
 ## Spotlight
-- <a href="https://github.com/DocDooom/final-capstone" target="_blank">**Final Capstone**</a>:　This repo contains some of the larger projects I created while recently on the
+- <a href="https://github.com/DocDooom/final-capstone" target="_blank">**Final Capstone**</a>: This repo contains some of the larger projects I created while recently on the
 HyperionDev Software Engineering bootcamp
 
 ## Experience
