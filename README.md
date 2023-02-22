@@ -14,7 +14,7 @@ Hi, I'm **Gabe**! An enthusiastic life-long **software/electronics** hobbyist wh
 
 ## Experience
 
-- Technical Sound Designer @Trasnatech onf AccuRC Simulator Project (March 2012 - April 2018)
+- Technical Sound Designer @Trasnatech on AccuRC Simulator Project (March 2012 - April 2018)
 - Audio Engineer @Searchmetrics (June 2018 - Jul 2021)
 - Music Composer/Audio Engineer @Warner/Chappell Music (March 2012 - March 2015)
 
@@ -25,9 +25,9 @@ Hi, I'm **Gabe**! An enthusiastic life-long **software/electronics** hobbyist wh
 
 ## Links
 
-<img src="https://img.icons8.com/ios/512/apple-mail" width="32" valign="middle"><a href="mailto:cwchanst@gmail.com"> Email me</a>
+<img src="https://img.icons8.com/ios/512/apple-mail" width="32" valign="middle"><a href="mailto:contact@mgdesir.com"> Email me!</a>
 
 <img src="https://img.icons8.com/ios-glyphs/512/github.png" width="32" valign="middle"><a href="https://github.com/DocDooom" target="_blank"> github.com/DocDooom</a>
 
-<img src="https://img.icons8.com/material-outlined/512/linkedin.png" width="32" valign="middle"><a href="https://www.linkedin.com/in/cwchanst/" target="_blank"> linkedin.com/in/cwchanst</a>
+<img src="https://img.icons8.com/material-outlined/512/linkedin.png" width="32" valign="middle"><a href="https://www.linkedin.com/in/gabriel-desir/" target="_blank"> LinkedIn</a>
 
