@@ -1,15 +1,39 @@
-<h1 align="center">Hi 👋, I'm McZane Gabriel Desir</h1>
-<h3 align="center">A Lifelong electronics and software hobbyist</h3>
+![./assets/eat_sleep_banner.png](./assets/eat_sleep_banner.png)
+**Note:** Trying to be more healthy nowadays so insert Gym somewhere there and the banner's about right!
 
-- 🌱 HTTP APIs with Django **Django Rest Framework**
+<img src="./assets/profile.png" width="200" />
 
-- 👨‍💻 All of my projects are available at [mgdesir.com](mgdesir.com)
+## Gabriel Desir
+Hi, I'm **Gabe**! An enthusiastic life-long **software/electronics** hobbyist who is eager to upskill and contribute to a team on worldclass projects!
 
-- 📫 How to reach me **contact@mgdesir.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Projects
+- <a href="https://bit.ly/3GrIWOX" target="_blank">**Bookstore Management System**</a>:　Built a bookstore management system that allows a clerk to manage the store's inventory by adding, updating, deleting, and searching for books in the database.
+- <a href="https://bit.ly/3WB1Uru" target="_blank">**Inventory Management System**</a>: Built an inventory management tool for shoe warehouses that allows the user to perform various tasks related to managing the warehouse and its inventory. 
+- <a href="https://bit.ly/3G5SrDg" target="_blank">**Task Manager (Advanced)**</a>: Built a task management tool for small businesses to manage tasks assigned to team members. This advanced version includes additional features such as the ability to generate reports and display statistics.
+- <a href="https://bit.ly/3CbD8qj" target="_blank">**Task Manager**</a>: Built a task management tool for small businesses that allows users to log in, register new users, add tasks, and view a list of tasks.
+- <a href="https://bit.ly/3vyy77A" target="_blank">**Financial Calculator**</a>: Built a financial calculator that allows the user to access two different financial calculators: an investment calculator and a home loan repayment calculator
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+## Experience
+
+- Accounts Clerk (Accounts Receivable) at Brink's Hong Kong Ltd  (February 2022 – August 2022)
+- Assistant Taxation Officer at Inland Revenue Department the Government of HKSAR (March 2009 - February 2022)
+- Accounts and Administrative Clerk / Accounts Clerk at various companies (December 2007 - September 2008)
+- Senior Estate Assistant / Assistant Property Officer at various companies (October 2003 – April 2006)
+- Web Developer at various companies (June 2000 – June 2001)
+
+## Education
+
+- Software Engineering Bootcamp at HyperionDev (December 2022 – March 2023)
+- Diploma of Higher Education in Accounting at IVE (Kwun Tong) (September 2007 – February 2012)
+- Bachelor's in Management Sciences, at City University of Hong Kong (September 1997 – June 2000)
+
+## Links
+
+<img src="https://img.icons8.com/ios/512/apple-mail" width="32" valign="middle"><a href="mailto:cwchanst@gmail.com"> Email me</a>
+
+<img src="https://img.icons8.com/ios-glyphs/512/github.png" width="32" valign="middle"><a href="https://github.com/DocDooom" target="_blank"> github.com/DocDooom</a>
+
+<img src="https://img.icons8.com/material-outlined/512/linkedin.png" width="32" valign="middle"><a href="https://www.linkedin.com/in/cwchanst/" target="_blank"> linkedin.com/in/cwchanst</a>
+
