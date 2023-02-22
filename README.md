@@ -10,7 +10,8 @@ Hi, I'm **Gabe**! An enthusiastic life-long **software/electronics** hobbyist wh
 
 
 ## Spotlight
-- <a href="https://bit.ly/3GrIWOX" target="_blank">**Bookstore Management System**</a>:　Built a bookstore management system that allows a clerk to manage the store's inventory by adding, updating, deleting, and searching for books in the database.
+- <a href="https://github.com/DocDooom/final-capstone" target="_blank">**Final Capstone**</a>:　This repo contains some of the larger projects I created while recently on the
+HyperionDev Software Engineering bootcamp
 
 ## Experience
 
