@@ -21,7 +21,7 @@ HyperionDev Software Engineering bootcamp
 
 ## Education
 
-- Software Engineering Bootcamp at HyperionDev (December 2022 – April 2023)
+- Software Engineering Course at HyperionDev (December 2022 – April 2023)
 - Bachelor's in Psychology (Like Mark Zuckerberg!) @Brunel University (September 2005 – May 2008)
 
 ## Links
