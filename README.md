@@ -6,7 +6,7 @@
 </p>
 <h2 align="center">McZane Gabriel Desir</h2>
 
-Hi, I'm  McZane but everybody calls me **Gabe**! An enthusiastic life-long **software/electronics** hobbyist who is eager to upskill and contribute to a team on worldclass projects!
+Hi, I'm  Gabriel but everybody calls me **Gabe**! An enthusiastic life-long **software/electronics** hobbyist who is eager to upskill and contribute to a team on worldclass projects!
 
 
 ## Spotlight
