@@ -19,11 +19,6 @@ HyperionDev Software Engineering bootcamp
 - Audio Engineer @Searchmetrics (June 2018 - Jul 2021)
 - Music Composer/Audio Engineer @Warner/Chappell Music (March 2012 - March 2015)
 
-## Education
-
-- Software Engineering Course at HyperionDev (December 2022 – April 2023)
-- Bachelor's in Psychology (Like Mark Zuckerberg!) @Brunel University (September 2005 – May 2008)
-
 ## Links
 
 <img src="https://img.icons8.com/ios/512/apple-mail" width="32" valign="middle"><a href="mailto:contact@mgdesir.com"> Email me!</a>
